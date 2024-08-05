@@ -1,9 +1,9 @@
 ```mermaid
 graph TD
-    A[fa:fa-user Tom] -->|Get money| B(Go shopping)
-    B --> C{Select}
-    C -->|One| D[Laptop]
-    C -->|Two| E[iPhone]
-    C -->|Three| F[fa:fa-car Car]
-  
+10[V03短边固定气缸伸出]-->20
+20[V04长边固定气缸伸出]-->30
+30[V06侧推气缸1/2伸出]-->40
+40[V07侧推气缸3/4伸出]-->50
+50[V05压紧气缸1/2伸出]-->60
+60[流程完成]
 ```
